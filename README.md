@@ -1,4 +1,4 @@
-# 🔬 DIY Digital OLED Oscilloscope (Under Construction)
+# 🔬 Digital ARduino Nano OLED Oscilloscope (Under Construction)
 
 An ongoing, high-performance embedded systems project aimed at building a portable digital storage oscilloscope (DSO) using an **Arduino Nano** and an **I2C OLED display (128x64)**. 
 
