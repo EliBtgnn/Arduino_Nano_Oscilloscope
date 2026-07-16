@@ -1,12 +1,12 @@
-# 🔬 Digital ARduino Nano OLED Oscilloscope (Under Construction)
+# 🔬 Digital Arduino Nano OLED Oscilloscope (Under Construction)
 
 An ongoing, high-performance embedded systems project aimed at building a portable digital storage oscilloscope (DSO) using an **Arduino Nano** and an **I2C OLED display (128x64)**. 
 
-> ⚠️ **Project Status: Work in Progress (WIP).** The hardware schematic is finalized, core sampling algorithms are being optimized, and UI components are under active development.
+> ⚡︎ **Project Status: Work in Progress (WIP).** The hardware schematic is finalized, core sampling algorithms are being optimized, and UI components are under active development.
 
 ---
 
-## 🛠️ System Architecture & Schematic
+## ⚡︎ System Architecture & Schematic
 The current design focuses on squeezing maximum sampling performance out of the ATmega328P microcontroller by bypassing standard framework limitations.
 
 ### Circuit Schematic
@@ -20,7 +20,7 @@ The current design focuses on squeezing maximum sampling performance out of the 
 
 ---
 
-## 🚀 Theoretical Engineering Challenges
+## ⚡︎ Theoretical Engineering Challenges
 
 To make this a viable oscilloscope, the project tackles several microelectronic and low-level firmware bottlenecks:
 
